@@ -1,0 +1,3 @@
+Item Code,Item Name,Item Group,Default Unit of Measure,Maintain Stock,Has Batch No,Automatically Create New Batch,Has Expiry Date,Shelf Life In Days,Barcode (Barcodes),Barcode Type (Barcodes),UOM (uoms),Conversion Factor (uoms)
+IMP-LIP-01,Sample Lipstick 01,Lips,Piece,1,0,0,0,,6291041500213,EAN,Box,12
+IMP-TONER-200,Sample Toner 200 ml,Skin Care,Piece,1,1,1,1,730,6291041500220,EAN,,
